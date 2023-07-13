@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 my name Is Leonard Habimana
+## I am a passionate Computer Engineer
 
+<img src="https://img.shields.io/badge/apache-%23D22128.svg?&style=for-the-badge&logo=apache&logoColor=white" />
 <!--
 **leonardhamana/leonardhamana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
