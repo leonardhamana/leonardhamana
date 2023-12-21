@@ -5,6 +5,7 @@
 
 
 ### Languages and tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardhamana&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardhamana&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardhamana&show_icons=true&theme=radical)
+## Languages
