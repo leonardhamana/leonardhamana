@@ -5,6 +5,8 @@
 
 
 ### Languages and tools
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardhamana&hide_progress=true)
+## Languages Statistics
 
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
